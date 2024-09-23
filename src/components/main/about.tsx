@@ -19,48 +19,25 @@ export function About() {
                 <p>
                     i'm qiko, a <Age />
                     -year-old interested in software engineering,
-                    artificial intelligence, and back-end development. currently doing my
-                    engineering preparatory year at the royal institute of technology, stockholm.
+                    artificial intelligence, and back-end development.
+                    currently, i’m doing my engineering preparatory year 
+                    at the Royal Institute of Technology, Stockholm.
                 </p>
                 <p>
-                    Mostly known from creating{" "}
-                    <Link
-                        href="https://wanderer.moe/"
-                        target="_blank"
-                        className="text-foreground hover:text-muted-foreground/50 transition-all duration-150"
-                    >
-                        wanderer.moe
-                    </Link>
-                    , an open-source platform for game assets at 15, now serving
-                    thousands of daily users.
+			  outside of computer science, i'm interested in philosophy, 
+			  and dabble in making my own music from time to time.
                 </p>
                 <p>
-                    Other projects include{" "}
-                    <Link
-                        href="https://x.com/dromzeh/status/1771212786736992411"
-                        target="_blank"
-                        className="text-foreground hover:text-muted-foreground/50 transition-all duration-150"
-                    >
-                        Originoid
-                    </Link>
-                    , an OC & Work sharing platform launching everywhere Q3
-                    2024, and{" "}
-                    <Link
-                        href="https://pfp.supply"
-                        target="_blank"
-                        className="text-foreground hover:text-muted-foreground/50 transition-all duration-150"
-                    >
-                        pfp.supply
-                    </Link>
-                    , a platform for sharing profile pictures.
+                    if you're looking to work with me on something, 
+                    feel free to contact me by using any of the methods above.
                 </p>
             </div>
         </div>
     );
 }
 
-const birthTimestamp = 1156114801000;
-const initialAge = 18;
+const birthTimestamp = 1070486400000; // December 4, 2003
+const initialAge = 20;
 
 export function Age() {
     const [age, setAge] = React.useState<number>(initialAge);

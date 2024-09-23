@@ -57,62 +57,7 @@ function SocialsContent() {
     return (
         <div className="group flex items-center gap-4 text-primary">
             <Link
-                href="https://x.com/dromzeh"
-                onMouseOver={() => ctx.setStatus("x")}
-                onMouseOut={() => ctx.setStatus("idle")}
-                className="relative transition-colors duration-300 ease-out hover:!text-muted group-hover:text-primary"
-            >
-                <AnimatePresence>
-                    {ctx.status === "x" && (
-                        <motion.div
-                            variants={icon}
-                            custom={{ rotateRight: true }}
-                            initial="hidden"
-                            animate="show"
-                            exit="exit"
-                            className="size-8 absolute -top-10 left-1/2 rotate-3 rounded-lg bg-black p-2 shadow-mixed"
-                        >
-                            <Image
-                                src={"./socials/x.png"}
-                                width={32}
-                                height={32}
-                                alt="x (twitter)"
-                                className="size-full"
-                            />
-                        </motion.div>
-                    )}
-                </AnimatePresence>
-                <span>x (twitter)</span>
-            </Link>
-            <Link
-                href="https://github.com/dromzeh"
-                onMouseOver={() => ctx.setStatus("github")}
-                onMouseOut={() => ctx.setStatus("idle")}
-                className="relative transition-colors duration-300 ease-out hover:!text-muted group-hover:text-primary"
-            >
-                <AnimatePresence>
-                    {ctx.status === "github" && (
-                        <motion.div
-                            variants={icon}
-                            initial="hidden"
-                            animate="show"
-                            exit="exit"
-                            className="size-8 absolute -top-10 left-1/2 -translate-x-1/2 -rotate-3 overflow-hidden rounded-lg bg-black shadow-mixed"
-                        >
-                            <Image
-                                src={"./socials/github.png"}
-                                width={32}
-                                height={32}
-                                alt="github"
-                                className="size-full"
-                            />
-                        </motion.div>
-                    )}
-                </AnimatePresence>
-                <span>github</span>
-            </Link>
-            <Link
-                href="https://discord.com/users/492731761680187403"
+                href="https://discord.com/users/911576576662077481"
                 onMouseOver={() => ctx.setStatus("discord")}
                 onMouseOut={() => ctx.setStatus("idle")}
                 className="relative transition-colors duration-300 ease-out hover:!text-muted group-hover:text-primary"

@@ -25,7 +25,7 @@ export function LanyardProfile() {
     const [activity, setActivity] = useState<Activity | undefined>(undefined);
 
     const { loading, status } = useLanyard({
-        userId: "492731761680187403",
+        userId: "911576576662077481",
         socket: true,
     });
 
