@@ -28,7 +28,7 @@ export function About() {
 			  and dabble in making my own music from time to time.
                 </p>
                 <p>
-                    if you're looking to work with me on something, 
+                    if you're looking to work with me, 
                     feel free to contact me by using any of the methods above.
                 </p>
             </div>
