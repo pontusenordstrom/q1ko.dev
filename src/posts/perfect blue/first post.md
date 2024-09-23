@@ -1,0 +1,23 @@
+# perfect blue
+---
+
+![[imageresize.jpg]]
+
+---
+
+satoshi kon, you absolute madman. this might honestly be one of the best movies i've ever watched. the care that went into this really shows, and the result is an absolutely fantastic, thrilling, even scary at times movie.
+
+what's even more crazy is that this was his directorial debut, this man really woke up and decided to make one of the best movies of all time out of nowhere. he is genuinely built different lol.
+
+the movie follows mima, a pop idol who decides to leave her music career to pursue acting, but as her life begins to spiral out of control, the line between her real life and the roles she plays starts to blur. it's a psychological thriller at its finest, constantly keeping you on edge, unsure of what's real and what isn't.
+
+i don't want to spoil the movie in case you want to watch it yourself, but the plot twists and the general concept of this movie are just brilliant, honestly. so brilliant, in fact, that multiple hollywood directors have copied the same ideas from satoshi kon, *looking at you, black swan*...
+
+the main character and the supporting characters feel grounded, and throughout the movie, it just has this eerie feeling that something is off. if you're into thrillers, or any type of drama for that matter, please do yourself a favor and watch this movie.
+
+![[A1Larywbw79kZQqkvCEiPHJqdLN.jpg]]
+![[perfect_blue_1997_me_mania_room.webp]]
+
+overall review: 10/10. absolutely brilliant from start to finish. if you haven't seen this movie yet, seriously, add it to your watchlist. you won’t regret it.
+
+---
