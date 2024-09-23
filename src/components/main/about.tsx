@@ -13,7 +13,7 @@ export function About() {
     return (
         <div>
             <h2 className="text-foreground font-semibold text-lg mb-2">
-                About
+                about me
             </h2>
             <div className="flex flex-col space-y-2">
                 <p>
