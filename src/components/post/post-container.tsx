@@ -6,5 +6,7 @@ export async function PostContainer() {
     const posts = await getPosts();
 
     return (
+        <div>
+        </div>
     );
 }
