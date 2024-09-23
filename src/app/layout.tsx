@@ -13,8 +13,8 @@ import { NavigationBar } from "~/components/navigation/navigation-bar";
 const geist = GeistSans;
 
 export const metadata: Metadata = {
-    title: "dromzeh.dev",
-    metadataBase: new URL("https://dromzeh.dev"),
+    title: "q1ko.dev",
+    metadataBase: new URL("https://q1ko.dev"),
 };
 
 interface RootLayoutProps {

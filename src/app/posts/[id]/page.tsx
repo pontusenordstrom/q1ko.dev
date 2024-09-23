@@ -19,9 +19,9 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     if (!post) return notFound();
 
     return {
-        title: `${post.title} • dromzeh.dev`,
+        title: `${post.title} • q1ko.dev`,
         description: post.description,
-        metadataBase: new URL("https://dromzeh.dev"),
+        metadataBase: new URL("https://q1ko.dev"),
     };
 }
 
