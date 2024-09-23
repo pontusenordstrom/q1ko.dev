@@ -1,4 +1,8 @@
-# perfect blue
+---
+title: perfect blue
+description: a short review of perfect blue.
+date: 23-09-2024
+slug: perfect blue
 ---
 
 ![[imageresize.jpg]]
