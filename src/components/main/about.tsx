@@ -17,11 +17,10 @@ export function About() {
             </h2>
             <div className="flex flex-col space-y-2">
                 <p>
-                    I'm Marcel, an <Age />
-                    -year-old Software Engineer specializing in Infrastructure,
-                    DevOps & Backend development. Currently pursuing an
-                    undergraduate Open Degree focusing on Mathematics and
-                    Computer Science.
+                    i'm qiko, a <Age />
+                    -year-old interested in software engineering,
+                    artificial intelligence, and back-end development. currently doing my
+                    engineering preparatory year at the royal institute of technology, stockholm.
                 </p>
                 <p>
                     Mostly known from creating{" "}
