@@ -6,9 +6,9 @@ import { PostContainer } from "~/components/post/post-container";
 import { ContactContainer } from "~/components/main/contact";
 
 export const metadata: Metadata = {
-    title: "home • dromzeh.dev",
-    description: "marcel's personal site",
-    metadataBase: new URL("https://dromzeh.dev"),
+    title: "home • q1ko.dev",
+    description: "qiko's personal site",
+    metadataBase: new URL("https://q1ko.dev"),
 };
 
 export default function Home() {
